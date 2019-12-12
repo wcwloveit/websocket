@@ -1,0 +1,6 @@
+cn\gov\wuxi\websocket\MyClient.class
+cn\gov\wuxi\service\WebSocketService.class
+cn\gov\wuxi\MessagePushApplication.class
+cn\gov\wuxi\controller\WebSocketController.class
+cn\gov\wuxi\config\WebSocketConfig.class
+cn\gov\wuxi\websocket\WebSocketServer.class
